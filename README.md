@@ -113,7 +113,7 @@ let’s create something <b>extraordinary</b> 🚀
 
 <div align="center">
 Made with 💌 by <b>0xPrince</b>  
-<i>Last updated: January 2026 · v1.0</i>
+<i>Last updated: March 2026 · v1.0</i>
 </div>
 
 <p align="center">
