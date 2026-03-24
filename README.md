@@ -74,9 +74,9 @@ Off the keyboard, I’m vibing to music or immersed in cinematography 🎬
 <img src="assets/TensorFlow.svg" width="45"/>
 
 <!-- Languages -->
-<img src="assets/c++.svg" width="45"/>
 <img src="assets/c.svg" width="45"/>
-<img src="assets/" width=45/>
+<img src="assets/c++.svg" width="45"/>
+<img src="assets/Csharp.svg" width=45/>
 <img src="assets/java.svg" width="45"/>
 <img src="assets/python.svg" width="45"/>
 
