@@ -36,13 +36,16 @@ Off the keyboard, I’m vibing to music or immersed in cinematography 🎬
 <div align="center">
 <img src="assets/metrics-1.png" height="70" alt="metrics"/>
 
-![](https://github-readme-stats.vercel.app/api?username=0xPrince121&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com?user=0xPrince121&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xPrince121&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 </div>
 
 
+<div align="center">
+<p>
+    <a href="https://github.com/0xPrince121/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=0xPrince121&theme=transparent&hide_border=true&background=0D1117&stroke=DB1CFF&fire=DB1CFF&ring=DB1CFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="img" />
+    </a>
+</p>
+</div>
 
 <div align="center">
 <img src="assets/toolbox.png" height="70" alt="toolbox"/>
