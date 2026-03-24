@@ -76,12 +76,14 @@ Off the keyboard, I’m vibing to music or immersed in cinematography 🎬
 <!-- Languages -->
 <img src="assets/c++.svg" width="45"/>
 <img src="assets/c.svg" width="45"/>
+<img src="assets/" width=45/>
 <img src="assets/java.svg" width="45"/>
 <img src="assets/python.svg" width="45"/>
 
 <!-- Web -->
 <img src="assets/html.svg" width="45"/>
 <img src="assets/css.svg" width="45"/>
+<img src="assets/javascript.svg" width="45"/>
 <img src="assets/flask.svg" width="45"/>
 <img src="assets/jinjalogo.svg" width="45"/>
 
