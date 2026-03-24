@@ -117,13 +117,15 @@ Off the keyboard, I’m vibing to music or immersed in cinematography 🎬
 <!-- 🔥 BUILDING TOOLS (ONE LINE ONLY) -->
 <div align="center">
 
-<!-- IDE & Automation Tools -->
+<!-- IDE & Automation Tools + Reverse Engineering -->
+<img src="assets/CheatEngine.svg" width="45"/>
 <img src="assets/vscode.svg" width="45"/>
+<img src="assets/IDA-PRO.png" width="45">
 <img src="assets/VisualStudio.svg" width="45"/>
 <img src="assets/n8n-color.svg" width="45"/>
 
-</div>
 
+</div>
 
 <!-- 🔹 ANIMATION DIVIDER -->
 <div align="center">
@@ -161,7 +163,7 @@ let’s create something <b>extraordinary</b> 🚀
 <!-- 🔹 FOOTER -->
 <div align="center">
 Made with 💌 by <b>0xPrince</b>  
-<i>Last updated: March 2026 · v1.0</i>
+<i>Last updated: March 2026 - v1.0</i>
 </div>
 
 <!-- 🔹 FOOTER WAVE -->
