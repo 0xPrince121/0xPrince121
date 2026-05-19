@@ -79,6 +79,14 @@ Off the keyboard, I’m vibing to music or immersed in cinematography 🎬
 <img src="assets/Csharp.svg" width=45/>
 <img src="assets/java.svg" width="45"/>
 <img src="assets/python.svg" width="45"/>
+<img src="assets/Kotlin.svg" width="45"/>
+<img src="assets/Swift.svg" width="45"/>
+
+
+<!-- Mobile App Development -->
+<img src="assets/Android Studio.svg" width="45"/>
+<img src="assets/Xcode.png" width="45"/>
+
 
 <!-- Web -->
 <img src="assets/html.svg" width="45"/>
@@ -122,9 +130,9 @@ Off the keyboard, I’m vibing to music or immersed in cinematography 🎬
 <img src="assets/vscode.svg" width="45"/>
 <img src="assets/IDA-PRO.png" width="45">
 <img src="assets/VisualStudio.svg" width="45"/>
-<img src="assets/n8n-color.svg" width="45"/>
 <img src="assets/Xcode.png" width="45"/>
-
+<img src="assets/n8n-color.svg" width="45"/>
+<img src="assets/Android Studio.svg" width="45"/>
 </div>
 
 <!-- 🔹 ANIMATION DIVIDER -->
@@ -163,7 +171,7 @@ let’s create something <b>extraordinary</b> 🚀
 <!-- 🔹 FOOTER -->
 <div align="center">
 Made with 💌 by <b>0xPrince</b>  
-<i>Last updated: March 2026 - v1.0</i>
+<i>Last updated: <b> May </b> 2026 - v1.0</i>
 </div>
 
 <!-- 🔹 FOOTER WAVE -->
