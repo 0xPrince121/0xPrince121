@@ -80,12 +80,8 @@ Off the keyboard, I’m vibing to music or immersed in cinematography 🎬
 <img src="assets/java.svg" width="45"/>
 <img src="assets/python.svg" width="45"/>
 <img src="assets/Kotlin.svg" width="45"/>
+<img src="assets/Firebase.svg" width="45"/>
 <img src="assets/Swift.svg" width="45"/>
-
-
-<!-- Mobile App Development -->
-<img src="assets/Android Studio.svg" width="45"/>
-<img src="assets/Xcode.png" width="45"/>
 
 
 <!-- Web -->
@@ -130,9 +126,10 @@ Off the keyboard, I’m vibing to music or immersed in cinematography 🎬
 <img src="assets/vscode.svg" width="45"/>
 <img src="assets/IDA-PRO.png" width="45">
 <img src="assets/VisualStudio.svg" width="45"/>
-<img src="assets/Xcode.png" width="45"/>
 <img src="assets/n8n-color.svg" width="45"/>
+<img src="assets/Xcode.png" width="45"/>
 <img src="assets/Android Studio.svg" width="45"/>
+<img src="assets/Flutter.svg" width="45"/>
 </div>
 
 <!-- 🔹 ANIMATION DIVIDER -->
