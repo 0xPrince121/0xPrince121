@@ -5,7 +5,7 @@
 
 <!-- 🔹 BADGES SECTION -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-round)](LICENSE)
-[![0xPrince](https://img.shields.io/badge/0xPrince-Developer-purple)](https://github.com/0xPrince121)
+[![0xPRINCE](https://img.shields.io/badge/0xPRINCE-DEVELOPER-ff0000?style=flat&logo=github&logoColor=white)](https://github.com/0xPrince121)
 [![Profile Views](https://komarev.com/ghpvc/?username=0xPrince121&style=flat&color=DB1CFF&label=Profile+Views)](https://github.com/0xPrince121)
 [![GitHub followers](https://img.shields.io/github/followers/0xPrince121?style=round&color=DB1CFF&logo=github)](https://github.com/0xPrince121)
 [![GitHub Stars](https://img.shields.io/github/stars/0xPrince121?style=round&color=DB1CFF&logo=github)](https://github.com/0xPrince121)
@@ -123,7 +123,7 @@ Off the keyboard, I’m vibing to music or immersed in cinematography 🎬
 <img src="assets/IDA-PRO.png" width="45">
 <img src="assets/VisualStudio.svg" width="45"/>
 <img src="assets/n8n-color.svg" width="45"/>
-
+<img src="assets/Xcode.png" width="45"/>
 
 </div>
 
