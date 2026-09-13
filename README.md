@@ -4,6 +4,8 @@
 <div align="center">
 
 <!-- 🔹 BADGES SECTION -->
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-samratprince.in-8B5CF6?style=round)](https://samratprince.in)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-round)](LICENSE)
 [![0xPRINCE](https://img.shields.io/badge/0xPRINCE-DEVELOPER-ff0000?style=flat&logo=github&logoColor=white)](https://github.com/0xPrince121)
 [![Profile Views](https://komarev.com/ghpvc/?username=0xPrince121&style=flat&color=DB1CFF&label=Profile+Views)](https://github.com/0xPrince121)
@@ -11,10 +13,10 @@
 [![GitHub Stars](https://img.shields.io/github/stars/0xPrince121?style=round&color=DB1CFF&logo=github)](https://github.com/0xPrince121)
 
 <!-- 🔹 LIVE STATUS BADGES -->
-<img src="https://api.statusbadges.me/badge/status/697499988636205137?label=Currently"/>
-<img src="https://api.statusbadges.me/badge/vscode/697499988636205137?label=Coding"/>
-<img src="https://api.statusbadges.me/badge/crunchyroll/697499988636205137?label=Watching"/>
-<img src="https://api.statusbadges.me/badge/spotify/697499988636205137?label=Listening%20to"/>
+<img src="https://api.statusbadges.me/badge/status/1280220538962444288?label=Currently"/>
+<img src="https://api.statusbadges.me/badge/vscode/1280220538962444288?label=Coding"/>
+<img src="https://api.statusbadges.me/badge/crunchyroll/1280220538962444288?label=Watching"/>
+<img src="https://api.statusbadges.me/badge/spotify/1280220538962444288?label=Listening%20to"/>
 
 <!-- 🔹 DEPLOYMENT STATUS -->
 ![Status](https://img.shields.io/badge/Status-Deployed-success)
@@ -25,7 +27,7 @@
 <!-- 🔹 INTRO SECTION -->
 <div align="center">
 <p>
-Hey! 👋 I’m <b>Prince</b>, also known as <b>0xPrince</b>, a coder from India driven by  
+Hey! 👋 I’m <b>Prince</b>,<br> also known as <b>0xPrince</b>, a coder from India driven by  
 <b>Core Innovation</b>, <b>System Security</b>, and <b>Engineering Excellence</b>.  
 I love diving into complex algorithms and transforming ideas into  
 <b>impactful real-world solutions</b>.  
@@ -157,7 +159,8 @@ let’s create something <b>extraordinary</b> 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=round&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0x-prince-606535383/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=round&logo=instagram&logoColor=white)](https://www.instagram.com/0xprince1/)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=round&logo=discord&logoColor=white)](https://discord.gg/h6SwZqPVUj)
+[![Portfolio](https://img.shields.io/badge/Portfolio-samratprince.in-8B5CF6?style=round)](https://samratprince.in)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=round&logo=discord&logoColor=white)](https://discord.gg/T5HzhQTnxe)
 [![Mail](https://img.shields.io/badge/Gmail-Contact-D14836?style=round&logo=gmail&logoColor=white)](mailto:samratprince121@gmail.com)
 [![Twitter](https://img.shields.io/badge/X-Follow-000000?style=round&logo=x&logoColor=white)](https://x.com/0xprince121)
 
