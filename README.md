@@ -84,6 +84,7 @@ Off the keyboard, I’m vibing to music or immersed in cinematography 🎬
 <img src="assets/Kotlin.svg" width="45"/>
 <img src="assets/Firebase.svg" width="45"/>
 <img src="assets/Swift.svg" width="45"/>
+<img src="assets/Rust.png" width="45"/>
 
 
 <!-- Web -->
